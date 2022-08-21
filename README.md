@@ -22,4 +22,4 @@ Tasks
 - Complete Project 5: Forage
 - Complete [Unit-6](https://developer.android.com/courses/android-basics-kotlin/unit-6)
  of Android Basics in Kotlin
- - Complete Project 5: Water Me
+ - Complete Project 6: Water Me
