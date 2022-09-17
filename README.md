@@ -23,3 +23,10 @@ Tasks
 - Complete [Unit-6](https://developer.android.com/courses/android-basics-kotlin/unit-6)
  of Android Basics in Kotlin
  - Complete Project 6: Water Me
+
+Final Project
+----------------
+
+- Grocery Android App
+
+
