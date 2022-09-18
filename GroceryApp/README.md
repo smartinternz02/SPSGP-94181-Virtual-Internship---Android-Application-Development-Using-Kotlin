@@ -13,10 +13,11 @@ Getting Started
 
 1. Download the starter code
 2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions]https://www.geeksforgeeks.org/how-to-build-a-grocery-android-app-using-mvvm-and-room-database/)
-
+3. Complete the project in accordance with the [project instructions](https://www.geeksforgeeks.org/how-to-build-a-grocery-android-app-using-mvvm-and-room-database/)
+4. Build apk in Android Studio
+5. Run project on emulator or device
 
 Output
 ------
 
-<img width="200" height="433" src="" alt=""> <img width="200" height="433" src="" alt=""> <img width="200" height="433" src="" alt=""> <img width="200" height="433" src="" alt=""> <img width="200" height="433" src="" alt=""> 
+<img width="200" height="433" src="https://github.com/smartinternz02/SPSGP-94181-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/edb848643130ddc07bbe13918c918397f9e5edf6/GroceryApp/output/01.png" alt=""> <img width="200" height="433" src="https://github.com/smartinternz02/SPSGP-94181-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/edb848643130ddc07bbe13918c918397f9e5edf6/GroceryApp/output/02.png" alt=""> <img width="200" height="433" src="https://github.com/smartinternz02/SPSGP-94181-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/edb848643130ddc07bbe13918c918397f9e5edf6/GroceryApp/output/03.png" alt=""> <img width="200" height="433" src="https://github.com/smartinternz02/SPSGP-94181-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/edb848643130ddc07bbe13918c918397f9e5edf6/GroceryApp/output/04.png" alt="">
